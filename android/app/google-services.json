@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621279073060",
+    "project_id": "promarket-93767",
+    "storage_bucket": "promarket-93767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621279073060:android:990d14bdda3d9b830299b1",
+        "android_client_info": {
+          "package_name": "com.promarket.uz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621279073060-78gm5t51qb3slbp15bbut4kjc7en0rqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkNoPDYpod3qsyZkyT48IqjwdYjrYevcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621279073060-78gm5t51qb3slbp15bbut4kjc7en0rqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
